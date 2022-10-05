@@ -20,8 +20,6 @@ a bit about Myself, I am Anderson Jader, currently in second semester in Science
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Anderson Jader&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 [![Line phrases](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome:%29;I'm+18+years+old.;I'm+studying+in+Unimonte.)](https://git.io/typing-svg)
 
@@ -36,7 +34,3 @@ a bit about Myself, I am Anderson Jader, currently in second semester in Science
 <p alig="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AndersonJader0&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
-
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
