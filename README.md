@@ -16,6 +16,8 @@ a bit about Myself, I am Anderson Jader, currently in second semester in Science
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 [![Google cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]()
+[![HTMl]
+[![CSS]
 
 
 [![Line phrases](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Welcome:%29;Take+a+look+some+of+my+projects.;Isn't+funny+the+tecnology+field?.)](https://git.io/typing-svg)
